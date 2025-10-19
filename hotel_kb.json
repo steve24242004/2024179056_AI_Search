@@ -1,0 +1,12 @@
+{
+    "greeting": "Hello! Welcome to ComfortStay Hotel. How may I assist you today?",
+    "timings": "Our check-in time is 12 PM and check-out is 11 AM. The reception is open 24/7.",
+    "rooms": "We offer Deluxe, Suite, and Family rooms — all equipped with Wi-Fi, air conditioning, and breakfast service.",
+    "booking": "To book a room, please tell me your check-in and check-out dates and the number of guests.",
+    "cancel": "Please provide your booking ID to cancel your reservation.",
+    "contact": "You can contact us at support@comfortstay.com or call +91-99887-66554.",
+    "location": "We are located at 45 Sunrise Avenue, Beachside City.",
+    "thanks": "You’re very welcome! 😊",
+    "fallback": "Sorry, I didn’t quite get that. You can ask about timings, rooms, bookings, cancellations, contact info, or location.",
+    "bye": "Goodbye! We hope to host you soon at ComfortStay Hotel."
+}
